@@ -83,5 +83,7 @@ What we're looking for here is:
 Not everyone has a decent computer though, so 1 minute is just a guideline to
 let you know if you're in the ballpark, not a hard limit.
 
+To submit your code, just commit all of your changes and push the repo to your own Github account, then send us the link.
+
 If you have any questions please ask!
 
