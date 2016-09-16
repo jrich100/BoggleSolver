@@ -12,7 +12,7 @@ similar to a boggle board, but where `3 >= n >= 100` and `3 >= m >= 100`.
 * No letter cube may be used more than once within a single word.
 
 ## Details
-Your program should accept input from stdin if when called
+Your program should accept input from stdin when called
 from the shell and write one word per line to stdout
 
 Example of how I want to use it:
