@@ -5,7 +5,7 @@ This challenge is inspired by [Boggle](https://en.wikipedia.org/wiki/Boggle), a 
 
 ## General Requirements
 Create a python program that solves an `n x m` sized word puzzle,
-similar to a boggle board, but where `3 >= n >= 100` and `3 >= m >= 100`.
+similar to a boggle board, but where `3 <= n >= 100` and `3 <= m >= 100`.
 
 * The letters must be adjoining in a 'chain'. (Letter cubes in the chain may be adjacent horizontally, vertically, or diagonally.)
 * Words must contain at least three letters.
