@@ -79,9 +79,7 @@ What we're looking for here is:
 * correct output
 * good design decisions
 * clean code, code that we wouldn't mind working with every day
-* not slow. the 100x100 board should run in under a minute on a decent computer.
-Not everyone has a decent computer though, so 1 minute is just a guideline to
-let you know if you're in the ballpark, not a hard limit.
+* not slow, the 100x100 board should run in a decent amount of time
 
 To submit your code, just commit all of your changes and push the repo to your own Github account, then send us the link.
 
